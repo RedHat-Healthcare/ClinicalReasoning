@@ -27,3 +27,18 @@ This is the best description we have found yet: [Clinical Reasoning: Defining It
 In addition, there are two main parts of CR: diagnosis and management. Most of the time the focus is on diagnosis because it can more easily be “scored” as right or wrong while management (ongoing therapy) often involves opinion, best practices, standards of care, etc. and can vary quite a bit.
 
 As the author notes, there is no universally accepted definition of clinical reasoning, but I think this gives a good working definition.
+
+# What is Clinical Reasoning at Red Hat?
+
+To understand where Red Hat can play in this space and offer differentiated solutions, let’s first define a few terms:
+Artificial intelligence is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals, which involves consciousness and emotionality.
+Machine learning is the study of computer algorithms that improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence.
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data.
+
+Clinical Reasoning solutions encompass the AI domains of Machine Learning, Decision Management (business rules), Business Optimization (business process automation, complex event processing,  constraint optimization), and IT automation. This translates to the middleware products Decision Manager, Process Automation Manager and OptaPlanner, IT automation with Ansible.
+
+Clinical Reasoning also includes running Machine Learning workloads on OpenShift with or without Open Data Hub, and key partner solutions, particularly in the areas of Data Science and algorithm development.
+
+All of the AI tools mentioned above run on OpenShift and have a common architecture (i.e. run as Operators) and common set of APIs. This gives Red Hat a unique advantage in the marketplace, giving our customers one place to run all of our AI tools and to choose the right tool for the job, without sacrificing interoperability or experiencing vendor lock-in, since all of the tools have corresponding upstream communities.
+
+Any of these tools can give answers that are predictive or prescriptive and they are all data-driven and can be knowledge-driven, meaning they can incorporate conclusions (example: scores) from prior iterations or other tools. Any good toolset should also allow you to simulate models before moving them into production.
