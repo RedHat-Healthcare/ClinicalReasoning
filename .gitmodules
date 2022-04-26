@@ -1,0 +1,15 @@
+[submodule "himss_2021_sepsis_detection"]
+	path = himss_2021_sepsis_detection
+	url = https://github.com/redhat-na-ssa/himss_2021_sepsis_detection
+[submodule "sepsis-detection"]
+	path = sepsis-detection
+	url = https://github.com/redhat-na-ssa/sepsis-detection
+[submodule "peer-review"]
+	path = peer-review
+	url = https://github.com/rh-aiservices-bu/peer-review
+[submodule "optaplanner-quickstarts"]
+	path = optaplanner-quickstarts
+	url = https://github.com/ge0ffrey/optaplanner-quickstarts
+[submodule "patient-proxy"]
+	path = patient-proxy
+	url = https://github.com/RH-HIMSS-DEMO/patient-proxy.git
