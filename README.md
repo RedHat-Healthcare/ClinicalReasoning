@@ -42,3 +42,6 @@ All of the AI tools mentioned above run on OpenShift and have a common architect
 
 Any of these tools can give answers that are predictive or prescriptive and they are all data-driven and can be knowledge-driven, meaning they can incorporate conclusions (example: scores) from prior iterations or other tools. Any good toolset should also allow you to simulate models before moving them into production.
 
+# Initializing Submodules in Local
+git submodule init
+git submodule update
